@@ -16,7 +16,7 @@ defmodule LiveViewStudio.Stores do
         name: "Azhagar",
         street: "first street",
         phone: "9988772345",
-        city: "Pondicherry",
+        city: "Pondicherry, PY",
         zip: "605001",
         open: true,
         hours: "8am - 9pm M-F"
@@ -34,7 +34,7 @@ defmodule LiveViewStudio.Stores do
         name: "Cadhir",
         street: "third street",
         phone: "9988772345",
-        city: "Pondicherry",
+        city: "Pondicherry, PY",
         zip: "605001",
         open: true,
         hours: "8am - 9pm M-F"
@@ -43,7 +43,7 @@ defmodule LiveViewStudio.Stores do
         name: "Deva",
         street: "fourth street",
         phone: "9988772345",
-        city: "Pondicherry",
+        city: "Pondicherry, PY",
         zip: "605009",
         open: true,
         hours: "8am - 9pm M-F"
@@ -52,7 +52,7 @@ defmodule LiveViewStudio.Stores do
         name: "Elangovan",
         street: "fifth street",
         phone: "9988772345",
-        city: "Pondicherry",
+        city: "Pondicherry, PY",
         zip: "605007",
         open: true,
         hours: "8am - 9pm M-F"
@@ -61,7 +61,7 @@ defmodule LiveViewStudio.Stores do
         name: "Faramanulla",
         street: "sixth street",
         phone: "9988772345",
-        city: "Pondicherry",
+        city: "Pondicherry, PY",
         zip: "605002",
         open: true,
         hours: "8am - 9pm M-F"
@@ -70,7 +70,7 @@ defmodule LiveViewStudio.Stores do
         name: "Govindan",
         street: "seventh street",
         phone: "9988772345",
-        city: "Pondicherry",
+        city: "Pondicherry, PY",
         zip: "605003",
         open: true,
         hours: "8am - 9pm M-F"
@@ -79,7 +79,7 @@ defmodule LiveViewStudio.Stores do
         name: "Hari",
         street: "eighth street",
         phone: "9988772345",
-        city: "Pondicherry",
+        city: "Pondicherry, PY",
         zip: "605007",
         open: true,
         hours: "8am - 9pm M-F"
@@ -88,7 +88,7 @@ defmodule LiveViewStudio.Stores do
         name: "Indira",
         street: "nineth street",
         phone: "9988772345",
-        city: "Pondicherry",
+        city: "Pondicherry, PY",
         zip: "605011",
         open: true,
         hours: "8am - 9pm M-F"
@@ -97,7 +97,7 @@ defmodule LiveViewStudio.Stores do
         name: "Jay",
         street: "tenth street",
         phone: "9988772345",
-        city: "Pondicherry",
+        city: "Pondicherry, PY",
         zip: "605012",
         open: true,
         hours: "8am - 9pm M-F"
